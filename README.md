@@ -2,6 +2,7 @@
 
 Experimentin with STM32F103CXT^FR-Core 1.1 Board.
 Based on STM32F103C6F6A microcontroller.
+![Alt text](STM32F103CXT6FR_small.png)
 
 ## Onboard pripherial:
  - Power LED
