@@ -25,15 +25,15 @@
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="392.25053"
-     inkscape:cy="464.12662"
+     inkscape:zoom="0.5"
+     inkscape:cx="684.18875"
+     inkscape:cy="407.04024"
      inkscape:window-width="1920"
      inkscape:window-height="994"
      inkscape:window-x="0"
      inkscape:window-y="31"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g1002606"
      inkscape:rotation="1">
     <sodipodi:guide
        position="152.70275,735.73208"
@@ -55,9 +55,31 @@
        position="179.31922,711.28618"
        orientation="1,0"
        id="guide731450" />
+    <sodipodi:guide
+       position="727.17249,244.89332"
+       orientation="1,0"
+       id="guide912874" />
+    <sodipodi:guide
+       position="738.63546,245.59958"
+       orientation="1,0"
+       id="guide912876" />
+    <sodipodi:guide
+       position="732.72367,244.56694"
+       orientation="1,0"
+       id="guide912878" />
+    <sodipodi:guide
+       position="479.11789,637.58122"
+       orientation="0,-1"
+       id="guide967666" />
   </sodipodi:namedview>
   <defs
      id="defs2">
+    <rect
+       x="511.33109"
+       y="82.414614"
+       width="133.14147"
+       height="60.617633"
+       id="rect981742" />
     <rect
        x="551.35993"
        y="199.42738"
@@ -2320,6 +2342,66 @@
        width="68.481305"
        height="45.038858"
        id="rect877711" />
+    <rect
+       x="18.264486"
+       y="57.968725"
+       width="150.02346"
+       height="24.445889"
+       id="rect919200" />
+    <rect
+       x="18.264486"
+       y="57.968725"
+       width="150.02346"
+       height="24.445889"
+       id="rect922382" />
+    <rect
+       x="18.264486"
+       y="57.968725"
+       width="150.02346"
+       height="24.445889"
+       id="rect926738" />
+    <rect
+       x="18.264486"
+       y="57.968725"
+       width="150.02346"
+       height="24.445889"
+       id="rect926748" />
+    <rect
+       x="18.264486"
+       y="57.968725"
+       width="150.02346"
+       height="24.445889"
+       id="rect926758" />
+    <rect
+       x="18.264486"
+       y="57.968725"
+       width="150.02346"
+       height="24.445889"
+       id="rect926768" />
+    <rect
+       x="18.264486"
+       y="57.968725"
+       width="150.02346"
+       height="24.445889"
+       id="rect926778" />
+    <rect
+       x="18.264486"
+       y="57.968725"
+       width="150.02346"
+       height="24.445889"
+       id="rect967642" />
+    <rect
+       x="18.264486"
+       y="57.968725"
+       width="376.14438"
+       height="19.573293"
+       id="rect1002608" />
+    <rect
+       x="18.264486"
+       y="57.968725"
+       width="376.14438"
+       height="19.573293"
+       id="rect1028022" />
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -4110,7 +4192,7 @@
            transform="translate(-35.92559)"><tspan
              x="878.43231"
              y="329.99736"
-             id="tspan911941">5V</tspan></text>
+             id="tspan1059997">5V</tspan></text>
       </g>
       <g
          id="g75860"
@@ -4155,7 +4237,7 @@
            y="0"><tspan
              x="835.09996"
              y="330.00322"
-             id="tspan911943">22</tspan></text>
+             id="tspan1059999">22</tspan></text>
         <text
            xml:space="preserve"
            id="text75858"
@@ -4164,7 +4246,7 @@
            y="0"><tspan
              x="870.1576"
              y="329.99736"
-             id="tspan911945">PB11</tspan></text>
+             id="tspan1060001">PB11</tspan></text>
       </g>
       <g
          id="g75884"
@@ -4209,7 +4291,7 @@
            y="0"><tspan
              x="835.09996"
              y="330.00322"
-             id="tspan911947">21</tspan></text>
+             id="tspan1060003">21</tspan></text>
         <text
            xml:space="preserve"
            id="text75882"
@@ -4218,7 +4300,7 @@
            y="0"><tspan
              x="870.1576"
              y="329.99736"
-             id="tspan911949">PB10</tspan></text>
+             id="tspan1060005">PB10</tspan></text>
       </g>
       <g
          id="g75908"
@@ -4233,9 +4315,9 @@
            ry="3.9994493" />
         <path
            style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m 802.94709,326.17838 h 28.614 0.72748"
+           d="m 802.94709,326.17838 5.57389,0 c 5.33628,-21.19695 5.33628,21.46839 11.17647,0 l 11.86364,0 h 0.72748"
            id="path75892"
-           sodipodi:nodetypes="ccc" />
+           sodipodi:nodetypes="ccccc" />
         <circle
            style="fill:none;stroke:#000000"
            id="circle75894"
@@ -4263,7 +4345,7 @@
            y="0"><tspan
              x="835.09996"
              y="330.00322"
-             id="tspan911951">19</tspan></text>
+             id="tspan1060007">19</tspan></text>
         <text
            xml:space="preserve"
            id="text75906"
@@ -4272,7 +4354,7 @@
            y="0"><tspan
              x="874.39912"
              y="329.99736"
-             id="tspan911953">PB1</tspan></text>
+             id="tspan1060009">PB1</tspan></text>
       </g>
       <g
          id="g75956"
@@ -4287,9 +4369,9 @@
            ry="3.9994493" />
         <path
            style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m 802.94709,326.17838 h 28.614 0.72748"
+           d="m 802.94709,326.17838 h 5.78495 c 5.12522,-21.13921 5.12522,21.26747 10.93936,0 h 11.88969 0.72748"
            id="path75940"
-           sodipodi:nodetypes="ccc" />
+           sodipodi:nodetypes="ccccc" />
         <circle
            style="fill:none;stroke:#000000"
            id="circle75942"
@@ -4317,7 +4399,7 @@
            y="0"><tspan
              x="835.09996"
              y="330.00322"
-             id="tspan911955">18</tspan></text>
+             id="tspan1060011">18</tspan></text>
         <text
            xml:space="preserve"
            id="text75954"
@@ -4326,7 +4408,7 @@
            y="0"><tspan
              x="874.39912"
              y="329.99736"
-             id="tspan911957">PB0</tspan></text>
+             id="tspan1060013">PB0</tspan></text>
       </g>
       <g
          id="g95166"
@@ -4341,9 +4423,9 @@
            ry="3.9994493" />
         <path
            style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m 802.94709,326.17838 h 28.614 0.72748"
+           d="m 802.94709,326.17838 h 5.40127 c 5.5089,-20.72905 5.5089,21.60126 11.27363,0 h 11.9391 0.72748"
            id="path95150"
-           sodipodi:nodetypes="ccc" />
+           sodipodi:nodetypes="ccccc" />
         <circle
            style="fill:none;stroke:#000000"
            id="circle95152"
@@ -4371,7 +4453,7 @@
            y="0"><tspan
              x="835.09996"
              y="330.00322"
-             id="tspan911959">17</tspan></text>
+             id="tspan1060015">17</tspan></text>
         <text
            xml:space="preserve"
            id="text95164"
@@ -4380,7 +4462,7 @@
            y="0"><tspan
              x="874.83857"
              y="329.99736"
-             id="tspan911961">PA7</tspan></text>
+             id="tspan1060017">PA7</tspan></text>
       </g>
       <g
          id="g95186"
@@ -4395,9 +4477,9 @@
            ry="3.9994493" />
         <path
            style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m 802.94709,326.17838 h 28.614 0.72748"
+           d="m 802.94709,326.17838 h 5.46093 c 5.44924,-20.61681 5.44924,21.3414 11.36255,0 h 11.79052 0.72748"
            id="path95170"
-           sodipodi:nodetypes="ccc" />
+           sodipodi:nodetypes="ccccc" />
         <circle
            style="fill:none;stroke:#000000"
            id="circle95172"
@@ -4425,7 +4507,7 @@
            y="0"><tspan
              x="835.09996"
              y="330.00322"
-             id="tspan911963">16</tspan></text>
+             id="tspan1060019">16</tspan></text>
         <text
            xml:space="preserve"
            id="text95184"
@@ -4434,7 +4516,7 @@
            y="0"><tspan
              x="874.83857"
              y="329.99736"
-             id="tspan911965">PA6</tspan></text>
+             id="tspan1060021">PA6</tspan></text>
       </g>
       <g
          id="g95206"
@@ -4479,7 +4561,7 @@
            y="0"><tspan
              x="835.09996"
              y="330.00322"
-             id="tspan911967">15</tspan></text>
+             id="tspan1060023">15</tspan></text>
         <text
            xml:space="preserve"
            id="text95204"
@@ -4488,7 +4570,7 @@
            y="0"><tspan
              x="874.83857"
              y="329.99736"
-             id="tspan911969">PA5</tspan></text>
+             id="tspan1060025">PA5</tspan></text>
       </g>
       <g
          id="g95246"
@@ -4533,7 +4615,7 @@
            y="0"><tspan
              x="835.09996"
              y="330.00322"
-             id="tspan911971">14</tspan></text>
+             id="tspan1060027">14</tspan></text>
         <text
            xml:space="preserve"
            id="text95244"
@@ -4542,7 +4624,7 @@
            y="0"><tspan
              x="874.83857"
              y="329.99736"
-             id="tspan911973">PA4</tspan></text>
+             id="tspan1060029">PA4</tspan></text>
       </g>
       <g
          id="g95286"
@@ -4557,9 +4639,9 @@
            ry="3.9994493" />
         <path
            style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m 802.94709,326.17838 h 28.614 0.72748"
+           d="m 802.94709,326.17838 h 5.13636 c 5.77381,-21.08142 5.77381,21.43162 11.46005,0 h 12.01759 0.72748"
            id="path95270"
-           sodipodi:nodetypes="ccc" />
+           sodipodi:nodetypes="ccccc" />
         <circle
            style="fill:none;stroke:#000000"
            id="circle95272"
@@ -4587,7 +4669,7 @@
            y="0"><tspan
              x="835.09996"
              y="330.00322"
-             id="tspan911975">13</tspan></text>
+             id="tspan1060031">13</tspan></text>
         <text
            xml:space="preserve"
            id="text95284"
@@ -4596,7 +4678,7 @@
            y="0"><tspan
              x="874.83857"
              y="329.99736"
-             id="tspan911977">PA3</tspan></text>
+             id="tspan1060033">PA3</tspan></text>
       </g>
       <g
          id="g95306"
@@ -4611,9 +4693,9 @@
            ry="3.9994493" />
         <path
            style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m 802.94709,326.17838 h 28.614 0.72748"
+           d="m 802.94709,326.17838 h 5.63259 c 5.27758,-21.21938 5.27758,21.55251 11.28796,0 h 11.69345 0.72748"
            id="path95290"
-           sodipodi:nodetypes="ccc" />
+           sodipodi:nodetypes="ccccc" />
         <circle
            style="fill:none;stroke:#000000"
            id="circle95292"
@@ -4641,7 +4723,7 @@
            y="0"><tspan
              x="835.09996"
              y="330.00322"
-             id="tspan911979">12</tspan></text>
+             id="tspan1060035">12</tspan></text>
         <text
            xml:space="preserve"
            id="text95304"
@@ -4650,7 +4732,7 @@
            y="0"><tspan
              x="874.83857"
              y="329.99736"
-             id="tspan911981">PA2</tspan></text>
+             id="tspan1060037">PA2</tspan></text>
       </g>
       <g
          id="g95326"
@@ -4665,9 +4747,9 @@
            ry="3.9994493" />
         <path
            style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m 802.94709,326.17838 h 28.614 0.72748"
+           d="m 802.94709,326.17838 h 5.20453 c 5.70564,-21.2145 5.70564,21.25402 11.66655,0 h 11.74292 0.72748"
            id="path95310"
-           sodipodi:nodetypes="ccc" />
+           sodipodi:nodetypes="ccccc" />
         <circle
            style="fill:none;stroke:#000000"
            id="circle95312"
@@ -4695,7 +4777,7 @@
            y="0"><tspan
              x="835.09996"
              y="330.00322"
-             id="tspan911983">11</tspan></text>
+             id="tspan1060039">11</tspan></text>
         <text
            xml:space="preserve"
            id="text95324"
@@ -4704,7 +4786,7 @@
            y="0"><tspan
              x="874.83857"
              y="329.99736"
-             id="tspan911985">PA1</tspan></text>
+             id="tspan1060041">PA1</tspan></text>
       </g>
       <rect
          style="fill:#00ffff;stroke:#000000"
@@ -4716,9 +4798,9 @@
          ry="3.9994493" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 802.94709,603.38369 h 28.614 0.72748"
+         d="m 802.94709,603.38369 h 5.17843 c 5.73174,-21.38718 5.73174,21.04781 11.82181,0 h 11.61376 0.72748"
          id="path95330"
-         sodipodi:nodetypes="ccc" />
+         sodipodi:nodetypes="ccccc" />
       <circle
          style="fill:none;stroke:#000000"
          id="circle95332"
@@ -4747,7 +4829,7 @@
          transform="translate(0,277.20531)"><tspan
            x="835.09996"
            y="330.00322"
-           id="tspan911987">10</tspan></text>
+           id="tspan1060043">10</tspan></text>
       <text
          xml:space="preserve"
          id="text95344"
@@ -4757,7 +4839,7 @@
          transform="translate(0,277.20531)"><tspan
            x="874.83857"
            y="329.99736"
-           id="tspan911989">PA0</tspan></text>
+           id="tspan1060045">PA0</tspan></text>
       <text
          xml:space="preserve"
          id="text413888"
@@ -4767,7 +4849,7 @@
          transform="translate(0,277.20531)"><tspan
            x="874.83857"
            y="329.99736"
-           id="tspan911991">PA0</tspan></text>
+           id="tspan1060047">PA0</tspan></text>
       <g
          id="g415210"
          transform="translate(-0.30840253,277.20531)">
@@ -4793,7 +4875,7 @@
            transform="translate(55.28037,0.38404801)"><tspan
              x="868.64393"
              y="329.99736"
-             id="tspan911993">ADC0</tspan></text>
+             id="tspan1060049">ADC0</tspan></text>
       </g>
       <g
          id="g95386"
@@ -4838,7 +4920,7 @@
            y="0"><tspan
              x="839.34148"
              y="330.00322"
-             id="tspan911995">2</tspan></text>
+             id="tspan1060051">2</tspan></text>
         <text
            xml:space="preserve"
            id="text95384"
@@ -4847,7 +4929,7 @@
            y="0"><tspan
              x="870.07622"
              y="329.99736"
-             id="tspan911997">PC13</tspan></text>
+             id="tspan1060053">PC13</tspan></text>
       </g>
       <g
          id="g95866"
@@ -4866,7 +4948,7 @@
            id="path95850"
            sodipodi:nodetypes="ccc" />
         <circle
-           style="fill:none;stroke:#000000"
+           style="fill:#000000;stroke:#000000"
            id="circle95852"
            cx="-992.01849"
            cy="326.36182"
@@ -4894,7 +4976,7 @@
            transform="translate(106.64556)"><tspan
              x="835.09996"
              y="330.00322"
-             id="tspan911999">46</tspan></text>
+             id="tspan1060055">46</tspan></text>
         <text
            xml:space="preserve"
            id="text95864"
@@ -4904,7 +4986,7 @@
            transform="translate(18.820505)"><tspan
              x="874.39912"
              y="329.99736"
-             id="tspan912001">PB9</tspan></text>
+             id="tspan1060057">PB9</tspan></text>
       </g>
       <g
          id="g230204"
@@ -4937,7 +5019,7 @@
            transform="translate(-35.92559)"><tspan
              x="874.19079"
              y="329.99736"
-             id="tspan912003">3V3</tspan></text>
+             id="tspan1060059">3V3</tspan></text>
       </g>
       <g
          id="g230218"
@@ -4970,9 +5052,9 @@
            transform="translate(-35.92559)"><tspan
              x="871.94796"
              y="329.99736"
-             id="tspan912007"><tspan
+             id="tspan1060063"><tspan
                style="fill:#ffffff"
-               id="tspan912005">GND</tspan></tspan></text>
+               id="tspan1060061">GND</tspan></tspan></text>
       </g>
       <g
          id="g237842"
@@ -5005,7 +5087,7 @@
            transform="translate(-35.92559)"><tspan
              x="874.19079"
              y="329.99736"
-             id="tspan912009">3V3</tspan></text>
+             id="tspan1060065">3V3</tspan></text>
       </g>
       <g
          id="g237854"
@@ -5038,9 +5120,9 @@
            transform="translate(-35.92559)"><tspan
              x="871.94796"
              y="329.99736"
-             id="tspan912013"><tspan
+             id="tspan1060069"><tspan
                style="fill:#ffffff"
-               id="tspan912011">GND</tspan></tspan></text>
+               id="tspan1060067">GND</tspan></tspan></text>
       </g>
       <g
          id="g237950"
@@ -5073,9 +5155,9 @@
            transform="translate(-35.92559)"><tspan
              x="871.94796"
              y="329.99736"
-             id="tspan912017"><tspan
+             id="tspan1060073"><tspan
                style="fill:#ffffff"
-               id="tspan912015">GND</tspan></tspan></text>
+               id="tspan1060071">GND</tspan></tspan></text>
       </g>
       <g
          id="g238044"
@@ -5108,7 +5190,7 @@
            transform="translate(-35.92559)"><tspan
              x="874.19079"
              y="329.99736"
-             id="tspan912019">3V3</tspan></text>
+             id="tspan1060075">3V3</tspan></text>
       </g>
       <g
          id="g284410"
@@ -5142,7 +5224,7 @@
            transform="translate(-35.92559)"><tspan
              x="874.19079"
              y="329.99736"
-             id="tspan912021">3V3</tspan></text>
+             id="tspan1060077">3V3</tspan></text>
       </g>
       <g
          id="g284422"
@@ -5176,9 +5258,9 @@
            transform="translate(-35.92559)"><tspan
              x="871.94796"
              y="329.99736"
-             id="tspan912025"><tspan
+             id="tspan1060081"><tspan
                style="fill:#ffffff"
-               id="tspan912023">GND</tspan></tspan></text>
+               id="tspan1060079">GND</tspan></tspan></text>
       </g>
       <path
          style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -5209,7 +5291,7 @@
          transform="translate(-361.31502,-0.10600393)"><tspan
            x="874.19079"
            y="329.99736"
-           id="tspan912027">3V3</tspan></text>
+           id="tspan1060083">3V3</tspan></text>
       <g
          id="g905101" />
       <g
@@ -5244,9 +5326,9 @@
            transform="translate(-35.92559)"><tspan
              x="871.94796"
              y="329.99736"
-             id="tspan912031"><tspan
+             id="tspan1060087"><tspan
                style="fill:#ffffff"
-               id="tspan912029">GND</tspan></tspan></text>
+               id="tspan1060085">GND</tspan></tspan></text>
       </g>
       <g
          id="g284947"
@@ -5280,7 +5362,7 @@
            transform="translate(-35.92559)"><tspan
              x="874.19079"
              y="329.99736"
-             id="tspan912033">3V3</tspan></text>
+             id="tspan1060089">3V3</tspan></text>
       </g>
       <g
          id="g284969"
@@ -5299,7 +5381,7 @@
            id="path284953"
            sodipodi:nodetypes="ccc" />
         <circle
-           style="fill:none;stroke:#000000"
+           style="fill:#000000;stroke:#000000"
            id="circle284955"
            cx="-992.01849"
            cy="326.36182"
@@ -5327,7 +5409,7 @@
            transform="translate(106.64556)"><tspan
              x="835.09996"
              y="330.00322"
-             id="tspan912035">45</tspan></text>
+             id="tspan1060091">45</tspan></text>
         <text
            xml:space="preserve"
            id="text284967"
@@ -5337,7 +5419,7 @@
            transform="translate(18.820505)"><tspan
              x="874.39912"
              y="329.99736"
-             id="tspan912037">PB8</tspan></text>
+             id="tspan1060093">PB8</tspan></text>
       </g>
       <g
          id="g284993"
@@ -5356,7 +5438,7 @@
            id="path284977"
            sodipodi:nodetypes="ccc" />
         <circle
-           style="fill:none;stroke:#000000"
+           style="fill:#000000;stroke:#000000"
            id="circle284979"
            cx="-992.01849"
            cy="326.36182"
@@ -5384,7 +5466,7 @@
            transform="translate(106.64556)"><tspan
              x="835.09996"
              y="330.00322"
-             id="tspan912039">43</tspan></text>
+             id="tspan1060095">43</tspan></text>
         <text
            xml:space="preserve"
            id="text284991"
@@ -5394,7 +5476,7 @@
            transform="translate(18.820505)"><tspan
              x="874.39912"
              y="329.99736"
-             id="tspan912041">PB7</tspan></text>
+             id="tspan1060097">PB7</tspan></text>
       </g>
       <g
          id="g285017"
@@ -5413,7 +5495,7 @@
            id="path285001"
            sodipodi:nodetypes="ccc" />
         <circle
-           style="fill:none;stroke:#000000"
+           style="fill:#000000;stroke:#000000"
            id="circle285003"
            cx="-992.01849"
            cy="326.36182"
@@ -5441,7 +5523,7 @@
            transform="translate(106.64556)"><tspan
              x="835.09996"
              y="330.00322"
-             id="tspan912043">42</tspan></text>
+             id="tspan1060099">42</tspan></text>
         <text
            xml:space="preserve"
            id="text285015"
@@ -5451,7 +5533,7 @@
            transform="translate(18.820505)"><tspan
              x="874.39912"
              y="329.99736"
-             id="tspan912045">PB6</tspan></text>
+             id="tspan1060101">PB6</tspan></text>
       </g>
       <g
          id="g285037"
@@ -5498,7 +5580,7 @@
            transform="translate(106.64556)"><tspan
              x="835.09996"
              y="330.00322"
-             id="tspan912047">41</tspan></text>
+             id="tspan1060103">41</tspan></text>
         <text
            xml:space="preserve"
            id="text285035"
@@ -5508,7 +5590,7 @@
            transform="translate(18.820505)"><tspan
              x="874.39912"
              y="329.99736"
-             id="tspan912049">PB5</tspan></text>
+             id="tspan1060105">PB5</tspan></text>
       </g>
       <g
          id="g285057"
@@ -5527,7 +5609,7 @@
            id="path285041"
            sodipodi:nodetypes="ccc" />
         <circle
-           style="fill:none;stroke:#000000"
+           style="fill:#000000;stroke:#000000"
            id="circle285043"
            cx="-992.01849"
            cy="326.36182"
@@ -5555,7 +5637,7 @@
            transform="translate(106.64556)"><tspan
              x="835.09996"
              y="330.00322"
-             id="tspan912051">40</tspan></text>
+             id="tspan1060107">40</tspan></text>
         <text
            xml:space="preserve"
            id="text285055"
@@ -5565,7 +5647,7 @@
            transform="translate(18.820505)"><tspan
              x="874.39912"
              y="329.99736"
-             id="tspan912053">PB4</tspan></text>
+             id="tspan1060109">PB4</tspan></text>
       </g>
       <g
          id="g285089"
@@ -5584,7 +5666,7 @@
            id="path285073"
            sodipodi:nodetypes="ccc" />
         <circle
-           style="fill:none;stroke:#000000"
+           style="fill:#000000;stroke:#000000"
            id="circle285075"
            cx="-992.01849"
            cy="326.36182"
@@ -5612,7 +5694,7 @@
            transform="translate(106.64556)"><tspan
              x="835.09996"
              y="330.00322"
-             id="tspan912055">39</tspan></text>
+             id="tspan1060111">39</tspan></text>
         <text
            xml:space="preserve"
            id="text285087"
@@ -5622,7 +5704,7 @@
            transform="translate(18.820505)"><tspan
              x="874.39912"
              y="329.99736"
-             id="tspan912057">PB3</tspan></text>
+             id="tspan1060113">PB3</tspan></text>
       </g>
       <g
          id="g285109"
@@ -5641,7 +5723,7 @@
            id="path285093"
            sodipodi:nodetypes="ccc" />
         <circle
-           style="fill:none;stroke:#000000"
+           style="fill:#000000;stroke:#000000"
            id="circle285095"
            cx="-992.01849"
            cy="326.36182"
@@ -5669,7 +5751,7 @@
            transform="translate(106.64556)"><tspan
              x="835.09996"
              y="330.00322"
-             id="tspan912059">38</tspan></text>
+             id="tspan1060115">38</tspan></text>
         <text
            xml:space="preserve"
            id="text285107"
@@ -5679,7 +5761,7 @@
            transform="translate(18.820505)"><tspan
              x="870.59705"
              y="329.99736"
-             id="tspan912061">PA15</tspan></text>
+             id="tspan1060117">PA15</tspan></text>
       </g>
       <g
          id="g285129"
@@ -5698,7 +5780,7 @@
            id="path285113"
            sodipodi:nodetypes="ccc" />
         <circle
-           style="fill:none;stroke:#000000"
+           style="fill:#000000;stroke:#000000"
            id="circle285115"
            cx="-992.01849"
            cy="326.36182"
@@ -5726,7 +5808,7 @@
            transform="translate(106.64556)"><tspan
              x="835.09996"
              y="330.00322"
-             id="tspan912063">31</tspan></text>
+             id="tspan1060119">31</tspan></text>
         <text
            xml:space="preserve"
            id="text285127"
@@ -5736,7 +5818,7 @@
            transform="translate(18.820505)"><tspan
              x="870.59705"
              y="329.99736"
-             id="tspan912065">PA10</tspan></text>
+             id="tspan1060121">PA10</tspan></text>
       </g>
       <g
          id="g285149"
@@ -5755,7 +5837,7 @@
            id="path285133"
            sodipodi:nodetypes="ccc" />
         <circle
-           style="fill:none;stroke:#000000"
+           style="fill:#000000;stroke:#000000"
            id="circle285135"
            cx="-992.01849"
            cy="326.36182"
@@ -5783,7 +5865,7 @@
            transform="translate(106.64556)"><tspan
              x="835.09996"
              y="330.00322"
-             id="tspan912067">30</tspan></text>
+             id="tspan1060123">30</tspan></text>
         <text
            xml:space="preserve"
            id="text285147"
@@ -5793,7 +5875,7 @@
            transform="translate(18.820505)"><tspan
              x="874.83857"
              y="329.99736"
-             id="tspan912069">PA9</tspan></text>
+             id="tspan1060125">PA9</tspan></text>
       </g>
       <g
          id="g285169"
@@ -5812,7 +5894,7 @@
            id="path285153"
            sodipodi:nodetypes="ccc" />
         <circle
-           style="fill:none;stroke:#000000"
+           style="fill:#000000;stroke:#000000"
            id="circle285155"
            cx="-992.01849"
            cy="326.36182"
@@ -5840,7 +5922,7 @@
            transform="translate(106.64556)"><tspan
              x="835.09996"
              y="330.00322"
-             id="tspan912071">29</tspan></text>
+             id="tspan1060127">29</tspan></text>
         <text
            xml:space="preserve"
            id="text285167"
@@ -5850,7 +5932,7 @@
            transform="translate(18.820505)"><tspan
              x="874.83857"
              y="329.99736"
-             id="tspan912073">PA8</tspan></text>
+             id="tspan1060129">PA8</tspan></text>
       </g>
       <g
          id="g285189"
@@ -5897,7 +5979,7 @@
            transform="translate(106.64556)"><tspan
              x="835.09996"
              y="330.00322"
-             id="tspan912075">28</tspan></text>
+             id="tspan1060131">28</tspan></text>
         <text
            xml:space="preserve"
            id="text285187"
@@ -5907,7 +5989,7 @@
            transform="translate(18.820505)"><tspan
              x="870.1576"
              y="329.99736"
-             id="tspan912077">PB15</tspan></text>
+             id="tspan1060133">PB15</tspan></text>
       </g>
       <g
          id="g285291"
@@ -5954,7 +6036,7 @@
            transform="translate(106.64556)"><tspan
              x="835.09996"
              y="330.00322"
-             id="tspan912079">27</tspan></text>
+             id="tspan1060135">27</tspan></text>
         <text
            xml:space="preserve"
            id="text285289"
@@ -5964,7 +6046,7 @@
            transform="translate(18.820505)"><tspan
              x="870.1576"
              y="329.99736"
-             id="tspan912081">PB14</tspan></text>
+             id="tspan1060137">PB14</tspan></text>
       </g>
       <g
          id="g285311"
@@ -6011,7 +6093,7 @@
            transform="translate(106.64556)"><tspan
              x="835.09996"
              y="330.00322"
-             id="tspan912083">26</tspan></text>
+             id="tspan1060139">26</tspan></text>
         <text
            xml:space="preserve"
            id="text285309"
@@ -6021,7 +6103,7 @@
            transform="translate(18.820505)"><tspan
              x="870.1576"
              y="329.99736"
-             id="tspan912085">PB13</tspan></text>
+             id="tspan1060141">PB13</tspan></text>
       </g>
       <g
          id="g285331"
@@ -6068,7 +6150,7 @@
            transform="translate(106.64556)"><tspan
              x="835.09996"
              y="330.00322"
-             id="tspan912087">25</tspan></text>
+             id="tspan1060143">25</tspan></text>
         <text
            xml:space="preserve"
            id="text285329"
@@ -6078,7 +6160,7 @@
            transform="translate(18.820505)"><tspan
              x="870.1576"
              y="329.99736"
-             id="tspan912089">PB12</tspan></text>
+             id="tspan1060145">PB12</tspan></text>
       </g>
       <g
          id="g415317"
@@ -6105,7 +6187,7 @@
            transform="translate(55.28037,0.38404801)"><tspan
              x="868.64393"
              y="329.99736"
-             id="tspan912091">ADC1</tspan></text>
+             id="tspan1060147">ADC1</tspan></text>
       </g>
       <g
          id="g415329"
@@ -6132,7 +6214,7 @@
            transform="translate(55.28037,0.38404801)"><tspan
              x="868.64393"
              y="329.99736"
-             id="tspan912093">ADC2</tspan></text>
+             id="tspan1060149">ADC2</tspan></text>
       </g>
       <g
          id="g415341"
@@ -6159,7 +6241,7 @@
            transform="translate(55.28037,0.38404801)"><tspan
              x="868.64393"
              y="329.99736"
-             id="tspan912095">ADC3</tspan></text>
+             id="tspan1060151">ADC3</tspan></text>
       </g>
       <g
          id="g415353"
@@ -6186,7 +6268,7 @@
            transform="translate(55.28037,0.38404801)"><tspan
              x="868.64393"
              y="329.99736"
-             id="tspan912097">ADC4</tspan></text>
+             id="tspan1060153">ADC4</tspan></text>
       </g>
       <g
          id="g415365"
@@ -6213,7 +6295,7 @@
            transform="translate(55.28037,0.38404801)"><tspan
              x="868.64393"
              y="329.99736"
-             id="tspan912099">ADC5</tspan></text>
+             id="tspan1060155">ADC5</tspan></text>
       </g>
       <g
          id="g415377"
@@ -6240,7 +6322,7 @@
            transform="translate(55.28037,0.38404801)"><tspan
              x="868.64393"
              y="329.99736"
-             id="tspan912101">ADC6</tspan></text>
+             id="tspan1060157">ADC6</tspan></text>
       </g>
       <g
          id="g415389"
@@ -6267,7 +6349,7 @@
            transform="translate(55.28037,0.38404801)"><tspan
              x="868.64393"
              y="329.99736"
-             id="tspan912103">ADC7</tspan></text>
+             id="tspan1060159">ADC7</tspan></text>
       </g>
       <g
          id="g415401"
@@ -6294,7 +6376,7 @@
            transform="translate(55.28037,0.38404801)"><tspan
              x="868.64393"
              y="329.99736"
-             id="tspan912105">ADC8</tspan></text>
+             id="tspan1060161">ADC8</tspan></text>
       </g>
       <g
          id="g415413"
@@ -6321,7 +6403,7 @@
            transform="translate(55.28037,0.38404801)"><tspan
              x="868.64393"
              y="329.99736"
-             id="tspan912107">ADC9</tspan></text>
+             id="tspan1060163">ADC9</tspan></text>
       </g>
       <g
          id="g432331"
@@ -6348,7 +6430,7 @@
            transform="translate(55.28037,0.38404801)"><tspan
              x="870.0339"
              y="329.99736"
-             id="tspan912109">CTS2</tspan></text>
+             id="tspan1060165">CTS2</tspan></text>
       </g>
       <g
          id="g436387"
@@ -6375,7 +6457,7 @@
            transform="translate(55.28037,0.38404801)"><tspan
              x="870.54171"
              y="329.99736"
-             id="tspan912111">RTS2</tspan></text>
+             id="tspan1060167">RTS2</tspan></text>
       </g>
       <g
          id="g436399"
@@ -6402,7 +6484,7 @@
            transform="translate(55.28037,0.38404801)"><tspan
              x="874.35355"
              y="329.99736"
-             id="tspan912113">TX2</tspan></text>
+             id="tspan1060169">TX2</tspan></text>
       </g>
       <g
          id="g436411"
@@ -6429,7 +6511,7 @@
            transform="translate(55.28037,0.38404801)"><tspan
              x="873.79365"
              y="329.99736"
-             id="tspan912115">RX2</tspan></text>
+             id="tspan1060171">RX2</tspan></text>
       </g>
       <g
          id="g436423"
@@ -6456,7 +6538,7 @@
            transform="translate(55.28037,0.38404801)"><tspan
              x="869.54236"
              y="329.99736"
-             id="tspan912117">NSS1</tspan></text>
+             id="tspan1060173">NSS1</tspan></text>
       </g>
       <g
          id="g436435"
@@ -6483,7 +6565,7 @@
            transform="translate(55.28037,0.38404801)"><tspan
              x="869.73442"
              y="329.99736"
-             id="tspan912119">SCK1</tspan></text>
+             id="tspan1060175">SCK1</tspan></text>
       </g>
       <g
          id="g436447"
@@ -6510,7 +6592,7 @@
            y="0"><tspan
              x="981.96848"
              y="458.11455"
-             id="tspan912121">MISO1</tspan></text>
+             id="tspan1060177">MISO1</tspan></text>
       </g>
       <g
          id="g436459"
@@ -6537,7 +6619,7 @@
          y="0"><tspan
            x="981.96848"
            y="436.96611"
-           id="tspan912123">MOSI1</tspan></text>
+           id="tspan1060179">MOSI1</tspan></text>
       <g
          id="g486657"
          transform="translate(-0.30840253,277.20531)">
@@ -6563,7 +6645,7 @@
            transform="translate(55.28037,0.38404801)"><tspan
              x="868.64393"
              y="329.99736"
-             id="tspan912125">ADC0</tspan></text>
+             id="tspan1060181">ADC0</tspan></text>
       </g>
       <g
          id="g486686"
@@ -6590,7 +6672,7 @@
          y="0"><tspan
            x="927.00857"
            y="649.85087"
-           id="tspan912127">TAMRER RTC</tspan></text>
+           id="tspan1060183">TAMRER RTC</tspan></text>
       <g
          id="g499154"
          transform="translate(122.53062,277.20531)">
@@ -6616,7 +6698,7 @@
            y="0"><tspan
              x="1046.8676"
              y="607.20244"
-             id="tspan912129">T2C1E</tspan></text>
+             id="tspan1060185">T2C1E</tspan></text>
       </g>
       <g
          id="g512158"
@@ -6643,7 +6725,7 @@
            y="0"><tspan
              x="1051.0798"
              y="607.20244"
-             id="tspan912131">T2C2</tspan></text>
+             id="tspan1060187">T2C2</tspan></text>
       </g>
       <g
          id="g512170"
@@ -6670,7 +6752,7 @@
            y="0"><tspan
              x="1051.0798"
              y="607.20244"
-             id="tspan912133">T2C3</tspan></text>
+             id="tspan1060189">T2C3</tspan></text>
       </g>
       <g
          id="g512182"
@@ -6697,7 +6779,7 @@
            y="0"><tspan
              x="1051.0798"
              y="607.20244"
-             id="tspan912135">T2C4</tspan></text>
+             id="tspan1060191">T2C4</tspan></text>
       </g>
       <g
          id="g512194"
@@ -6724,7 +6806,7 @@
            y="0"><tspan
              x="1055.0218"
              y="607.20244"
-             id="tspan912137">CK2</tspan></text>
+             id="tspan1060193">CK2</tspan></text>
       </g>
       <g
          id="g523622"
@@ -6751,7 +6833,7 @@
            y="0"><tspan
              x="1051.0798"
              y="607.20244"
-             id="tspan912139">T3C1</tspan></text>
+             id="tspan1060195">T3C1</tspan></text>
       </g>
       <g
          id="g526646"
@@ -6778,7 +6860,7 @@
            y="0"><tspan
              x="1118.8991"
              y="457.93876"
-             id="tspan912141">T1BKIN</tspan></text>
+             id="tspan1060197">T1BKIN</tspan></text>
       </g>
       <g
          id="g538242"
@@ -6805,7 +6887,7 @@
            y="0"><tspan
              x="1048.6058"
              y="607.20244"
-             id="tspan912143">WKUP</tspan></text>
+             id="tspan1060199">WKUP</tspan></text>
       </g>
       <g
          id="g539724"
@@ -6832,7 +6914,7 @@
            y="0"><tspan
              x="1055.2302"
              y="607.20244"
-             id="tspan912145">LED</tspan></text>
+             id="tspan1060201">LED</tspan></text>
       </g>
       <g
          id="g547891"
@@ -6859,7 +6941,7 @@
            y="0"><tspan
              x="1051.0798"
              y="607.20244"
-             id="tspan912147">T3C2</tspan></text>
+             id="tspan1060203">T3C2</tspan></text>
       </g>
       <g
          id="g547901"
@@ -6886,7 +6968,7 @@
            y="0"><tspan
              x="1120.9141"
              y="457.93876"
-             id="tspan912149">T1C1N</tspan></text>
+             id="tspan1060205">T1C1N</tspan></text>
       </g>
       <g
          id="g552297"
@@ -6913,7 +6995,7 @@
            y="0"><tspan
              x="1051.0798"
              y="607.20244"
-             id="tspan912151">T3C3</tspan></text>
+             id="tspan1060207">T3C3</tspan></text>
       </g>
       <g
          id="g552307"
@@ -6940,7 +7022,7 @@
            y="0"><tspan
              x="1120.9141"
              y="457.93876"
-             id="tspan912153">T1C2N</tspan></text>
+             id="tspan1060209">T1C2N</tspan></text>
       </g>
       <g
          id="g552321"
@@ -6967,7 +7049,7 @@
            y="0"><tspan
              x="1051.0798"
              y="607.20244"
-             id="tspan912155">T3C4</tspan></text>
+             id="tspan1060211">T3C4</tspan></text>
       </g>
       <g
          id="g552331"
@@ -6994,7 +7076,7 @@
            y="0"><tspan
              x="1120.9141"
              y="457.93876"
-             id="tspan912157">T1C3N</tspan></text>
+             id="tspan1060213">T1C3N</tspan></text>
       </g>
       <g
          id="g561605"
@@ -7021,7 +7103,7 @@
            y="0"><tspan
              x="1051.0798"
              y="607.20244"
-             id="tspan912159">T2C3</tspan></text>
+             id="tspan1060215">T2C3</tspan></text>
       </g>
       <g
          id="g561615"
@@ -7048,7 +7130,7 @@
            y="0"><tspan
              x="1051.0798"
              y="607.20244"
-             id="tspan912161">T2C4</tspan></text>
+             id="tspan1060217">T2C4</tspan></text>
       </g>
       <g
          id="g566148"
@@ -7067,7 +7149,7 @@
            id="path566132"
            sodipodi:nodetypes="ccc" />
         <circle
-           style="fill:none;stroke:#000000"
+           style="fill:#000000;stroke:#000000"
            id="circle566134"
            cx="809.32849"
            cy="305.27454"
@@ -7093,7 +7175,7 @@
            y="0"><tspan
              x="835.09996"
              y="330.00322"
-             id="tspan912163">34</tspan></text>
+             id="tspan1060219">34</tspan></text>
         <text
            xml:space="preserve"
            id="text566146"
@@ -7102,7 +7184,7 @@
            y="0"><tspan
              x="870.59705"
              y="329.99736"
-             id="tspan912165">PA13</tspan></text>
+             id="tspan1060221">PA13</tspan></text>
         <text
            xml:space="preserve"
            style="font-size:13.3333px;line-height:1.25;font-family:sans-serif"
@@ -7131,7 +7213,7 @@
            id="path566485"
            sodipodi:nodetypes="ccc" />
         <circle
-           style="fill:none;stroke:#000000"
+           style="fill:#000000;stroke:#000000"
            id="circle566487"
            cx="788.39618"
            cy="283.79697"
@@ -7157,7 +7239,7 @@
            y="0"><tspan
              x="835.09996"
              y="330.00322"
-             id="tspan912167">37</tspan></text>
+             id="tspan1060223">37</tspan></text>
         <text
            xml:space="preserve"
            id="text566499"
@@ -7166,7 +7248,7 @@
            y="0"><tspan
              x="870.59705"
              y="329.99736"
-             id="tspan912169">PA14</tspan></text>
+             id="tspan1060225">PA14</tspan></text>
       </g>
       <g
          id="g566876"
@@ -7200,7 +7282,7 @@
            transform="translate(-35.92559)"><tspan
              x="874.19079"
              y="329.99736"
-             id="tspan912171">3V3</tspan></text>
+             id="tspan1060227">3V3</tspan></text>
       </g>
       <g
          id="g566890"
@@ -7234,9 +7316,9 @@
            transform="translate(-35.92559)"><tspan
              x="871.94796"
              y="329.99736"
-             id="tspan912175"><tspan
+             id="tspan1060231"><tspan
                style="fill:#ffffff"
-               id="tspan912173">GND</tspan></tspan></text>
+               id="tspan1060229">GND</tspan></tspan></text>
       </g>
       <g
          id="g599442"
@@ -7263,7 +7345,7 @@
            y="0"><tspan
              x="852.03943"
              y="811.67314"
-             id="tspan912177">JTMS</tspan></text>
+             id="tspan1060233">JTMS</tspan></text>
       </g>
       <g
          id="g628441"
@@ -7290,7 +7372,7 @@
            y="0"><tspan
              x="853.38708"
              y="811.67314"
-             id="tspan912179">JTCK</tspan></text>
+             id="tspan1060235">JTCK</tspan></text>
       </g>
       <g
          id="g632299"
@@ -7317,7 +7399,7 @@
            y="0"><tspan
              x="844.89101"
              y="811.67314"
-             id="tspan912181">SWDIO</tspan></text>
+             id="tspan1060237">SWDIO</tspan></text>
       </g>
       <g
          id="g632309"
@@ -7344,7 +7426,7 @@
            y="0"><tspan
              x="844.49713"
              y="811.67314"
-             id="tspan912183">SWCLK</tspan></text>
+             id="tspan1060239">SWCLK</tspan></text>
       </g>
       <g
          id="g638195"
@@ -7371,7 +7453,7 @@
            transform="translate(55.28037,0.38404801)"><tspan
              x="869.18429"
              y="329.99736"
-             id="tspan912185">SDA1</tspan></text>
+             id="tspan1060241">SDA1</tspan></text>
       </g>
       <g
          id="g638243"
@@ -7398,7 +7480,7 @@
            transform="translate(55.28037,0.38404801)"><tspan
              x="870.39197"
              y="329.99736"
-             id="tspan912187">SCL1</tspan></text>
+             id="tspan1060243">SCL1</tspan></text>
       </g>
       <g
          id="g640991"
@@ -7425,7 +7507,7 @@
            transform="translate(55.28037,0.38404801)"><tspan
              x="869.18429"
              y="329.99736"
-             id="tspan912189">SDA1</tspan></text>
+             id="tspan1060245">SDA1</tspan></text>
       </g>
       <g
          id="g641001"
@@ -7452,7 +7534,7 @@
            transform="translate(55.28037,0.38404801)"><tspan
              x="870.39197"
              y="329.99736"
-             id="tspan912191">SCL1</tspan></text>
+             id="tspan1060247">SCL1</tspan></text>
       </g>
       <g
          id="g641073"
@@ -7479,7 +7561,7 @@
            transform="translate(55.28037,0.38404801)"><tspan
              x="869.54236"
              y="329.99736"
-             id="tspan912193">NSS1</tspan></text>
+             id="tspan1060249">NSS1</tspan></text>
       </g>
       <g
          id="g641083"
@@ -7506,7 +7588,7 @@
            transform="translate(55.28037,0.38404801)"><tspan
              x="869.73442"
              y="329.99736"
-             id="tspan912195">SCK1</tspan></text>
+             id="tspan1060251">SCK1</tspan></text>
       </g>
       <g
          id="g641093"
@@ -7533,7 +7615,7 @@
            y="0"><tspan
              x="981.96848"
              y="458.11455"
-             id="tspan912197">MISO1</tspan></text>
+             id="tspan1060253">MISO1</tspan></text>
       </g>
       <g
          id="g641195"
@@ -7560,7 +7642,7 @@
            y="0"><tspan
              x="981.96848"
              y="458.11455"
-             id="tspan912199">MOSI1</tspan></text>
+             id="tspan1060255">MOSI1</tspan></text>
       </g>
       <g
          id="g645799"
@@ -7587,7 +7669,7 @@
            transform="translate(55.28037,0.38404801)"><tspan
              x="874.35355"
              y="329.99736"
-             id="tspan912201">TX1</tspan></text>
+             id="tspan1060257">TX1</tspan></text>
       </g>
       <g
          id="g645809"
@@ -7614,7 +7696,7 @@
            transform="translate(55.28037,0.38404801)"><tspan
              x="873.79365"
              y="329.99736"
-             id="tspan912203">RX1</tspan></text>
+             id="tspan1060259">RX1</tspan></text>
       </g>
       <g
          id="g645819"
@@ -7641,7 +7723,7 @@
            y="0"><tspan
              x="1055.0218"
              y="607.20244"
-             id="tspan912205">CK1</tspan></text>
+             id="tspan1060261">CK1</tspan></text>
       </g>
       <g
          id="g652461"
@@ -7668,7 +7750,7 @@
            y="0"><tspan
              x="1051.0798"
              y="607.20244"
-             id="tspan912207">T1C3</tspan></text>
+             id="tspan1060263">T1C3</tspan></text>
       </g>
       <g
          id="g655161"
@@ -7695,7 +7777,7 @@
            y="0"><tspan
              x="1051.0798"
              y="607.20244"
-             id="tspan912209">T1C2</tspan></text>
+             id="tspan1060265">T1C2</tspan></text>
       </g>
       <g
          id="g655173"
@@ -7722,7 +7804,7 @@
            y="0"><tspan
              x="1051.0798"
              y="607.20244"
-             id="tspan912211">T1C1</tspan></text>
+             id="tspan1060267">T1C1</tspan></text>
       </g>
       <g
          id="g658236"
@@ -7749,7 +7831,7 @@
            y="0"><tspan
              x="1118.8991"
              y="457.93876"
-             id="tspan912213">T1BKIN</tspan></text>
+             id="tspan1060269">T1BKIN</tspan></text>
       </g>
       <g
          id="g658246"
@@ -7776,7 +7858,7 @@
            y="0"><tspan
              x="1120.9141"
              y="457.93876"
-             id="tspan912215">T1C1N</tspan></text>
+             id="tspan1060271">T1C1N</tspan></text>
       </g>
       <g
          id="g658256"
@@ -7803,7 +7885,7 @@
            y="0"><tspan
              x="1120.9141"
              y="457.93876"
-             id="tspan912217">T1C2N</tspan></text>
+             id="tspan1060273">T1C2N</tspan></text>
       </g>
       <g
          id="g658266"
@@ -7830,7 +7912,7 @@
            y="0"><tspan
              x="1120.9141"
              y="457.93876"
-             id="tspan912219">T1C3N</tspan></text>
+             id="tspan1060275">T1C3N</tspan></text>
       </g>
       <g
          id="g658459"
@@ -7857,7 +7939,7 @@
            y="0"><tspan
              x="1046.8676"
              y="607.20244"
-             id="tspan912221">T2C1E</tspan></text>
+             id="tspan1060277">T2C1E</tspan></text>
       </g>
       <g
          id="g659848"
@@ -7884,7 +7966,7 @@
            y="0"><tspan
              x="1051.0798"
              y="607.20244"
-             id="tspan912223">T2C2</tspan></text>
+             id="tspan1060279">T2C2</tspan></text>
       </g>
       <g
          id="g659858"
@@ -7911,7 +7993,7 @@
            y="0"><tspan
              x="1051.0798"
              y="607.20244"
-             id="tspan912225">T3C2</tspan></text>
+             id="tspan1060281">T3C2</tspan></text>
       </g>
       <g
          id="g659868"
@@ -7938,7 +8020,7 @@
            y="0"><tspan
              x="1051.0798"
              y="607.20244"
-             id="tspan912227">T3C1</tspan></text>
+             id="tspan1060283">T3C1</tspan></text>
       </g>
       <g
          id="g671248"
@@ -7965,7 +8047,7 @@
            transform="translate(55.28037,0.38404801)"><tspan
              x="874.35355"
              y="329.99736"
-             id="tspan912229">TX1</tspan></text>
+             id="tspan1060285">TX1</tspan></text>
       </g>
       <g
          id="g671258"
@@ -7992,7 +8074,7 @@
            transform="translate(55.28037,0.38404801)"><tspan
              x="873.79365"
              y="329.99736"
-             id="tspan912231">RX1</tspan></text>
+             id="tspan1060287">RX1</tspan></text>
       </g>
       <g
          id="g671272"
@@ -8019,7 +8101,7 @@
            y="0"><tspan
              x="1119.7097"
              y="457.93876"
-             id="tspan912233">CANRX</tspan></text>
+             id="tspan1060289">CANRX</tspan></text>
       </g>
       <g
          id="g671383"
@@ -8046,7 +8128,7 @@
            y="0"><tspan
              x="1120.2696"
              y="457.93876"
-             id="tspan912235">CANTX</tspan></text>
+             id="tspan1060291">CANTX</tspan></text>
       </g>
       <g
          id="g673831"
@@ -8073,7 +8155,7 @@
            y="0"><tspan
              x="854.92354"
              y="811.67314"
-             id="tspan912237">JTDI</tspan></text>
+             id="tspan1060293">JTDI</tspan></text>
       </g>
       <g
          id="g673843"
@@ -8100,7 +8182,7 @@
            y="0"><tspan
              x="851.64229"
              y="811.67314"
-             id="tspan912239">JTDO</tspan></text>
+             id="tspan1060295">JTDO</tspan></text>
       </g>
       <g
          id="g673855"
@@ -8127,7 +8209,7 @@
            y="0"><tspan
              x="844.1"
              y="811.67314"
-             id="tspan912241">NJTRST</tspan></text>
+             id="tspan1060297">NJTRST</tspan></text>
       </g>
       <g
          id="g673867"
@@ -8154,7 +8236,7 @@
            y="0"><tspan
              x="852.40727"
              y="811.67314"
-             id="tspan912243">MCO</tspan></text>
+             id="tspan1060299">MCO</tspan></text>
       </g>
       <g
          id="g677331"
@@ -8181,11 +8263,11 @@
            y="0"><tspan
              x="844.39589"
              y="807.00648"
-             id="tspan912245">TRACE
+             id="tspan1060301">TRACE
 </tspan><tspan
              x="850.0697"
              y="821.00642"
-             id="tspan912247">SWO</tspan></text>
+             id="tspan1060303">SWO</tspan></text>
       </g>
     </g>
     <text
@@ -8283,9 +8365,9 @@
        y="0"><tspan
          x="823.19254"
          y="44.537794"
-         id="tspan912251"><tspan
+         id="tspan1060307"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan912249">STM32F103CXT6FR</tspan></tspan></text>
+           id="tspan1060305">STM32F103CXT6FR</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:13.3333px;line-height:1.25;font-family:sans-serif"
@@ -8314,7 +8396,7 @@
          y="0"><tspan
            x="68.571677"
            y="74.43225"
-           id="tspan912253">POWER</tspan></text>
+           id="tspan1060309">POWER</tspan></text>
     </g>
     <g
        id="g737425"
@@ -8335,9 +8417,9 @@
          y="0"><tspan
            x="63.229894"
            y="74.43225"
-           id="tspan912257"><tspan
+           id="tspan1060313"><tspan
              style="fill:#ffffff"
-             id="tspan912255">GROUND</tspan></tspan></text>
+             id="tspan1060311">GROUND</tspan></tspan></text>
     </g>
     <g
        id="g737435"
@@ -8358,7 +8440,7 @@
          y="0"><tspan
            x="50.056099"
            y="74.43225"
-           id="tspan912259">PHISICAL PIN</tspan></text>
+           id="tspan1060315">PHISICAL PIN</tspan></text>
     </g>
     <g
        id="g737445"
@@ -8379,7 +8461,7 @@
          y="0"><tspan
            x="60.671306"
            y="74.43225"
-           id="tspan912261">PIN NAME</tspan></text>
+           id="tspan1060317">PIN NAME</tspan></text>
     </g>
     <g
        id="g737455"
@@ -8400,7 +8482,7 @@
          y="0"><tspan
            x="65.277415"
            y="74.43225"
-           id="tspan912263">ANALOG</tspan></text>
+           id="tspan1060319">ANALOG</tspan></text>
     </g>
     <g
        id="g737465"
@@ -8421,7 +8503,7 @@
          y="0"><tspan
            x="60.720134"
            y="74.43225"
-           id="tspan912265">CONTROL</tspan></text>
+           id="tspan1060321">CONTROL</tspan></text>
     </g>
     <g
        id="g737475"
@@ -8442,7 +8524,7 @@
          y="0"><tspan
            x="28.2723"
            y="74.43225"
-           id="tspan912267">BOARD HARDWARE</tspan></text>
+           id="tspan1060323">BOARD HARDWARE</tspan></text>
     </g>
     <g
        id="g737485"
@@ -8463,7 +8545,7 @@
          y="0"><tspan
            x="31.075027"
            y="74.43225"
-           id="tspan912269">TIMER &amp; CHANNEL</tspan></text>
+           id="tspan1060325">TIMER &amp; CHANNEL</tspan></text>
     </g>
     <g
        id="g750921"
@@ -8484,7 +8566,7 @@
          y="0"><tspan
            x="71.260472"
            y="74.43225"
-           id="tspan912271">USART</tspan></text>
+           id="tspan1060327">USART</tspan></text>
     </g>
     <g
        id="g750931"
@@ -8505,7 +8587,7 @@
          y="0"><tspan
            x="83.057317"
            y="74.43225"
-           id="tspan912273">SPI</tspan></text>
+           id="tspan1060329">SPI</tspan></text>
     </g>
     <g
        id="g750941"
@@ -8526,7 +8608,7 @@
          y="0"><tspan
            x="82.412788"
            y="74.43225"
-           id="tspan912275">I2C</tspan></text>
+           id="tspan1060331">I2C</tspan></text>
     </g>
     <g
        id="g750951"
@@ -8547,7 +8629,7 @@
          y="0"><tspan
            x="63.268956"
            y="74.43225"
-           id="tspan912277">CAN BUS</tspan></text>
+           id="tspan1060333">CAN BUS</tspan></text>
     </g>
     <g
        id="g750961"
@@ -8568,7 +8650,7 @@
          y="0"><tspan
            x="79.590529"
            y="74.43225"
-           id="tspan912279">USB</tspan></text>
+           id="tspan1060335">USB</tspan></text>
     </g>
     <g
        id="g750971"
@@ -8589,7 +8671,7 @@
          y="0"><tspan
            x="76.670615"
            y="74.43225"
-           id="tspan912281">MISC</tspan></text>
+           id="tspan1060337">MISC</tspan></text>
     </g>
     <g
        id="g910443"
@@ -8611,7 +8693,256 @@
          y="0"><tspan
            x="556.18955"
            y="214.5579"
-           id="tspan912283">USB TYPE C</tspan></text>
+           id="tspan1060339">USB TYPE C</tspan></text>
+    </g>
+    <g
+       id="g919198"
+       transform="translate(321.81928)" />
+    <g
+       id="g922380"
+       transform="translate(161.05473)">
+      <rect
+         style="opacity:1;fill:#00ff00;fill-opacity:1;stroke:#000000"
+         id="rect922374"
+         width="150.02347"
+         height="24.445889"
+         x="18.264486"
+         y="57.968723"
+         ry="3.99874" />
+      <text
+         xml:space="preserve"
+         id="text922378"
+         style="font-size:13.3333px;line-height:1.95;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect922382)"
+         x="63.922367"
+         y="0"><tspan
+           x="65.277415"
+           y="74.43225"
+           id="tspan1060341">ANALOG</tspan></text>
+    </g>
+    <g
+       id="g926736"
+       transform="translate(323.19842)">
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000"
+         id="rect926730"
+         width="150.02347"
+         height="24.445889"
+         x="18.264486"
+         y="57.968723"
+         ry="3.99874" />
+      <text
+         xml:space="preserve"
+         id="text926734"
+         style="font-size:13.3333px;line-height:1.95;font-family:sans-serif;text-align:end;white-space:pre;shape-inside:url(#rect926738)"
+         x="102.76016"
+         y="0"><tspan
+           x="89.582881"
+           y="74.43225"
+           id="tspan1060343">5V tolerant  </tspan></text>
+    </g>
+    <g
+       id="g926746"
+       transform="translate(323.19842,24.445889)">
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000"
+         id="rect926740"
+         width="150.02347"
+         height="24.445889"
+         x="18.264486"
+         y="57.968723"
+         ry="3.99874" />
+      <text
+         xml:space="preserve"
+         id="text926744"
+         style="font-size:13.3333px;line-height:1.95;font-family:sans-serif;text-align:end;white-space:pre;shape-inside:url(#rect926748)"
+         x="116.41898"
+         y="0"><tspan
+           x="61.985295"
+           y="74.43225"
+           id="tspan1060345">Not 5V tolerant  </tspan></text>
+    </g>
+    <g
+       id="g926756"
+       transform="translate(323.19842,48.891778)">
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000"
+         id="rect926750"
+         width="150.02347"
+         height="24.445889"
+         x="18.264486"
+         y="57.968723"
+         ry="3.99874" />
+      <text
+         xml:space="preserve"
+         id="text926754"
+         style="font-size:13.3333px;line-height:1.95;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect926758)"
+         x="63.922367"
+         y="0"><tspan
+           x="64.841218"
+           y="74.43225"
+           id="tspan1060347">PWM Pin</tspan></text>
+    </g>
+    <g
+       id="g926766"
+       transform="translate(323.19842,73.337667)">
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000"
+         id="rect926760"
+         width="150.02347"
+         height="24.445889"
+         x="18.264486"
+         y="57.968723"
+         ry="3.99874" />
+      <text
+         xml:space="preserve"
+         id="text926764"
+         style="font-size:13.3333px;line-height:1.95;font-family:sans-serif;text-align:end;white-space:pre;shape-inside:url(#rect926768)"
+         x="96.767334"
+         y="0"><tspan
+           x="102.493"
+           y="74.43225"
+           id="tspan1060349">Alternate  </tspan></text>
+    </g>
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000"
+       id="path960860"
+       cx="357.85239"
+       cy="70.432495"
+       r="2.6456695" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 360.53149,70.703813 h 22.29237 l -0.22381,-0.09382"
+       id="path960895" />
+    <circle
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000"
+       id="circle961101"
+       cx="357.85239"
+       cy="94.532402"
+       r="2.6456695" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 360.53149,94.803723 h 22.29237 l -0.22381,-0.09382"
+       id="path961103" />
+    <circle
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000"
+       id="circle961123"
+       cx="357.85239"
+       cy="119.35993"
+       r="2.6456695" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 360.53149,119.63125 h 5.35407 c 4.73148,-12.81763 2.87516,12.05243 9.17527,0 h 7.76303 l -0.22381,-0.0938"
+       id="path961125"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 357.13308,144.1168 h 22.29237 l -0.22381,-0.0938"
+       id="path961129" />
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;line-height:1.25;font-family:sans-serif"
+       x="720.52148"
+       y="584.93311"
+       id="text965024"><tspan
+         sodipodi:role="line"
+         id="tspan965022"
+         x="720.52148"
+         y="584.93311">*</tspan></text>
+    <g
+       id="g967640"
+       transform="translate(483.73151)">
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000"
+         id="rect967634"
+         width="151.91667"
+         height="98.150864"
+         x="18.264486"
+         y="57.968723"
+         ry="3.99874" />
+      <text
+         xml:space="preserve"
+         id="text967638"
+         style="font-size:13.3333px;line-height:1.95;font-family:sans-serif;text-align:end;white-space:pre;shape-inside:url(#rect967642)"
+         x="96.767334"
+         y="0"><tspan
+           x="77.310777"
+           y="74.43225"
+           id="tspan1060351">Not standard  </tspan></text>
+      <text
+         xml:space="preserve"
+         transform="translate(-483.73151)"
+         id="text981740"
+         style="line-height:1.25;font-family:sans-serif;font-size:13.33333333px;white-space:pre;shape-inside:url(#rect981742)" />
+      <text
+         xml:space="preserve"
+         style="font-size:13.3333px;line-height:1.25;font-family:sans-serif"
+         x="72.627747"
+         y="96.029175"
+         id="text985708"><tspan
+           sodipodi:role="line"
+           id="tspan985706"
+           x="72.627747"
+           y="96.029175">Sink max 3mA</tspan><tspan
+           sodipodi:role="line"
+           x="72.627747"
+           y="112.6958"
+           id="tspan988272">Source 0 mA</tspan><tspan
+           sodipodi:role="line"
+           x="72.627747"
+           y="129.36243"
+           id="tspan990230">max 3 mhz</tspan><tspan
+           sodipodi:role="line"
+           x="72.627747"
+           y="146.02905"
+           id="tspan991948">max 30 pF</tspan></text>
+    </g>
+    <circle
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000"
+       id="circle967748"
+       cx="518.31958"
+       cy="70.515091"
+       r="2.6456695" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 520.99871,70.786414 h 22.29237 l -0.22381,-0.09382"
+       id="path967750" />
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;line-height:1.25;font-family:sans-serif"
+       x="520.97614"
+       y="72.517395"
+       id="text970920"><tspan
+         sodipodi:role="line"
+         id="tspan970918"
+         x="520.97614"
+         y="72.517395">*</tspan></text>
+    <g
+       id="g1002606"
+       transform="translate(11.031271,633.05891)">
+      <text
+         xml:space="preserve"
+         id="text1002604"
+         style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:end;white-space:pre;shape-inside:url(#rect1002608)"
+         x="-44.73296"
+         y="0"
+         transform="translate(-10.017351,21.520139)"><tspan
+           x="18.263672"
+           y="69.765595"
+           id="tspan1060355"><tspan
+             style="text-align:start;text-anchor:start"
+             id="tspan1060353">Absolute max 150 mA total source/sink for entire MCU</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         id="text1028020"
+         style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:end;white-space:pre;shape-inside:url(#rect1028022)"
+         x="-302.46667"
+         y="0"
+         transform="translate(-10.559655,39.451625)"><tspan
+           x="18.263672"
+           y="69.765595"
+           id="tspan1060359"><tspan
+             style="text-align:start;text-anchor:start"
+             id="tspan1060357">Max 50 mA per pin ±8mA recomended</tspan></tspan></text>
     </g>
   </g>
 </svg>
